@@ -2,3 +2,4 @@ flask
 pdfplumber
 python-dateutil
 flask-cors
+gunicorn==21.2.0
