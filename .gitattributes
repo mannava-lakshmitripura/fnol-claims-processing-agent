@@ -1,0 +1,23 @@
+# === Text files ===
+*.py       text eol=lf
+*.txt      text eol=lf
+*.md       text eol=lf
+*.json     text eol=lf
+*.yaml     text eol=lf
+*.yml      text eol=lf
+*.csv      text eol=lf
+
+# === Binary files ===
+*.pdf      binary
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.gif      binary
+*.ico      binary
+*.zip      binary
+*.tar.gz   binary
+*.exe      binary
+*.dll      binary
+
+# === Prevent Git from modifying line endings for everything else ===
+* text=auto

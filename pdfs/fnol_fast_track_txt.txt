@@ -1,0 +1,9 @@
+
+    Policy Number: POL11111
+    Policyholder Name: Alice Brown
+    Incident Date: 01/15/2026
+    Location: Florida
+    Description: Fender bender, no injuries.
+    Estimated Damage: 8000
+    Claim Type: Auto
+    
